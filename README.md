@@ -1,5 +1,5 @@
 ## hey there! 👋
-i'm murali shanmuga- current computer engineering student at Rutgers
+i'm murali shanmuga- current computer engineering student at rutgers university- new brunswick
 
 
 
