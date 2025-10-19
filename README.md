@@ -1,11 +1,9 @@
 ## hey there! 👋
 i'm murali shanmuga- current computer engineering student at rutgers university- new brunswick
 
-
-
-- 🔭 i’m currently working on an AI-Powered SWE Technical Interview Prep module!
-- 🌱 i’m currently learning how to use external APIS to generate and parse dynamic content.
-- 🚆 i’m currently looking for internships to apply for during Summer 2026!
-- 📫 reach out to me! always looking forward to meeting new people: mshanmuga2005@gmail.com
-- ⚡ fun fact: i love watching cat videos and eating french fries.
+- 💡 incoming controls engineering co-op @ entegris (spring 2026)
+- 🔧 currently diving deeper into PLC/HMI systems, sensor integration, and hardware–software interfaces for industrial automation.
+- 🌱 learning how advanced control systems and embedded design shape semiconductor innovation.
+- 🤝 always open to collaborating and connecting with engineers and innovators — reach out anytime at mshanmuga2005@gmail.com
+- ⚡ fun fact: i love watching cat videos and eating Dominos's $6.99 deal pizza!
 
